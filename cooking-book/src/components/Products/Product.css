@@ -1,0 +1,7 @@
+.product_wrapper {
+  text-align: center;
+  margin: 10px;
+  width: 30%;
+  min-height: 200px;
+  border: medium solid black;
+}
